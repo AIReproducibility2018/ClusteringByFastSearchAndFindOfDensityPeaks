@@ -1,0 +1,72 @@
+DATA
+Name of data set: Flame
+Link to data set: https://cs.joensuu.fi/sipu/datasets/flame.txt
+Version of data set:
+License of data set:
+Is the data set preprocessed: No
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+Name of data set: Aggregation
+Link to data set: https://cs.joensuu.fi/sipu/datasets/Aggregation.txt
+Version of data set:
+License of data set:
+Is the data set preprocessed: No
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+Name of data set: Spiral
+Link to data set: https://cs.joensuu.fi/sipu/datasets/spiral.txt
+Version of data set:
+License of data set:
+Is the data set preprocessed: No
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+Name of data set: dim256
+Link to data set: https://cs.joensuu.fi/sipu/datasets/dim256.txt
+Version of data set:
+License of data set:
+Is the data set preprocessed: No
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+Name of data set: seeds Data Set
+Link to data set: https://archive.ics.uci.edu/ml/datasets/seeds
+Version of data set:
+License of data set:
+Is the data set preprocessed: No
+Link to preprocessed data:
+Version of preprocessed data:
+License of preprocessed data:
+
+Name of data set: Olivettti Face Database
+Link to data set: 
+Version of data set:
+License of data set:
+Is the data set preprocessed: Yes
+Link to preprocessed data: http://people.sissa.it/~laio/Research/Clustering_source_code/distances_olivetti.dat
+Version of preprocessed data:
+License of preprocessed data:
+
+EXPERIMENT
+Method source code: Clustering method
+Link to method source code: http://science.sciencemag.org/highwire/filestream/595891/field_highwire_adjunct_files/0/1242072DataS1.zip
+Method source code version: 
+Method source code license: 
+Experiment source code: ClusteringByFastSearchAndFindOfDensityPeaks
+Link to experiment source code: https://github.com/AIReproducibility2018/ClusteringByFastSearchAndFindOfDensityPeaks
+Experiment source code version: 1.0
+Experiment source code license: 
+Hardware description:
+	* CPU vendor and type: Intel i5-4670
+	* Size of primary memory (RAM): 8 GB
+	* Size of secondary memory (Harddisk):  500 GB
+Operating system and version: Windows 10 Pro, version 1709
+Ancillary software and version:
+Link to ancillary software and version:
+Link to explicit results: https://github.com/AIReproducibility2018/ClusteringByFastSearchAndFindOfDensityPeaks
